@@ -1,0 +1,60 @@
+body{
+    font-size: 18px;
+    background-color: #3a1463;
+    height: 100vh;
+    margin: 0;
+    color: white;
+}
+header{
+    text-align: center;
+}
+main{
+    margin-left: 10%;
+}
+h1{
+    line-height: 1.5;
+    color: rgb(3, 191, 238);
+}
+
+.intro{
+    color: #a346f5;
+}
+
+h2{
+    line-height: 1.5;
+}
+
+.cor{
+    color: cadetblue;
+}
+
+.verde{
+    color: mediumspringgreen;
+}
+
+.cor1texto{
+    color: cadetblue;
+}
+
+.laranja{
+    color: orange;
+}
+.cor2Texto{
+    color: orange;
+}
+
+.rosa{
+    color:deeppink;
+}
+
+.azul{
+    color:cornflowerblue;
+}
+.cor3texto{
+    color: rgb(131, 145, 173);
+}
+
+footer{
+    text-align: center;
+    color: #b39bc7;
+}
